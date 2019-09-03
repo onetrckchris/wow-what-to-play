@@ -9,6 +9,6 @@ I'm aware of the debate over the validity of the MBTI personality test. Although
 ## Features: 
 #### Version 1:
 • I don't see a reason to recreate the wheel (or in this case the MBTI test), so a link to the site where you could take that test for free will be provided on the page. After having taken that test, you could return to the quiz and input your personality type.
-••• > This will probably be displayed via a dropdown menu.
+    Testing out if the indentation works on markdown like so.
 
 • After inputting your personality type, the following quiz will determine your playstyle. There will be several multiple-choice questions that relate to different traits of a class.
